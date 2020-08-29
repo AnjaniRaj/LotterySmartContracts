@@ -1,5 +1,7 @@
-#Inbox Contract
+#Smart Contract
+
 ###Structure
+
 - contracts - contract .sol files
 - test - contract tests using mocha
 - compile.js - compiles and export a contract
