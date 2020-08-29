@@ -1,6 +1,6 @@
-#Smart Contract
+# Smart Contract
 
-###Structure
+### Structure
 
 - contracts - contract .sol files
 - test - contract tests using mocha
